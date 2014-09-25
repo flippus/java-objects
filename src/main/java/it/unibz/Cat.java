@@ -1,4 +1,10 @@
 package it.unibz;
+
+/**
+ *
+ * @author Philipp Neugebauer
+ *
+ */
 public class Cat extends Animal {
 
 	@Override

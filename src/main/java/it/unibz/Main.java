@@ -1,4 +1,10 @@
 package it.unibz;
+
+/**
+ *
+ * @author Philipp Neugebauer
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {
